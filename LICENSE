@@ -1,0 +1,72 @@
+
+# In Our Place Checkout License (NCL) – Version 1.0
+
+## Preamble
+
+This software license governs the use of the **In Our Place Checkout Joomla Component** ("the Software"), developed for the Joomla CMS. It allows free use for Joomla site builders, while ensuring fair compensation when the Software is bundled with or used by other commercial Joomla extensions.
+
+## 1. Definitions
+
+- **Software**: Refers to the In Our Place Checkout Joomla Component and any associated plugins or files distributed with it.
+- **Dependent Component**: Any Joomla component or extension that makes use of the Software, either directly or via integration.
+- **Free Distribution**: A distribution that is publicly accessible for download **without payment** and **without requiring any form of user registration** (including email).
+- **Commercial Use**: Any use of the Software in conjunction with a Dependent Component that does not qualify as Free Distribution.
+- **Derivative Work**: Any modification, extension, or integration of the Software that creates a new or altered version.
+
+## 2. License Grant (Non-Commercial Use)
+
+You are granted a royalty-free, non-exclusive, worldwide license to use, modify, and distribute the Software under the following conditions:
+
+- You may use the Software in any Joomla installation.
+- You may build and run online shops with it.
+- You may redistribute or integrate the Software with a Dependent Component, **provided that**:
+  - The Dependent Component is available for Free Distribution.
+  - No registration or payment is required to access the Dependent Component.
+
+### ✅ Derivative Works
+
+You may create derivative works of the Software (e.g., by modifying, extending, or integrating it), **provided that**:
+
+- All derivative works remain licensed under this In Our Place Checkout License in full.
+- You may not relicense the Software or its derivatives under any other license (e.g., GPL, MIT, proprietary).
+- You must retain this license text and the original copyright.
+- The same rules for Free Distribution vs. Commercial Use apply to derivative works.
+
+## 3. Commercial Use Terms
+
+If you use or distribute the Software (or any derivative work of it) in conjunction with a Dependent Component that does **not** qualify as Free Distribution, the following terms apply:
+
+- You must obtain a **commercial license** from the author.
+- You must **report all distributions or sales** of the Dependent Component that includes or uses the Software.
+- You must **provide access to the email addresses** of users who download or purchase the Dependent Component.
+- You agree to **pay a per-installation or per-sale fee**, as separately agreed with the author.
+
+These requirements apply whether the Software is bundled with, integrated into, or merely used by the Dependent Component.
+
+## 4. Plugin Use in Articles
+
+The included plugin enabling article-based checkout functionality is part of the Software and is subject to the same licensing terms.
+
+## 5. Enforcement and Termination
+
+Any breach of this license immediately terminates your rights to use the Software. Upon termination, you must cease all distribution and delete all copies.
+
+## 6. No Warranty
+
+The Software is provided “as is,” without warranty of any kind, express or implied.
+
+## 7. Contact for Commercial Licensing
+
+For commercial licensing, fee arrangements, or reporting, contact:
+
+**[Your Name or Company Name]**  
+**[Your Contact Email]**  
+**[Website URL if applicable]**
+
+---
+
+## Summary (Non-Binding):
+- ✅ You can use the component freely with Joomla to build shops.
+- ✅ Other components can use it freely **only if they are fully free and require no email or login**.
+- ❌ If a component that uses this one requires a login, registration, or payment, **you must obtain a commercial license and share email/user data and pay fees**.
+- 🛠️ Any forks or extensions must **keep this license intact**.
